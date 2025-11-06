@@ -40,10 +40,3 @@ Do not use this to download copyrighted music, movies, or other content you do n
 
 ---
 
-## Next steps (I can do now)
-
-1. Turn this into a real GitHub repo with all files populated and a polished README + LICENSE.
-2. Add OAuth flow so users can sign in and prove channel ownership (so they can download their own uploads without manual confirmation).
-3. Add playlist handling and progress UI, plus parallel downloads with a queue.
-
-Tell me which of the three you want first and I'll generate the full repo files ready for upload to GitHub. ✨
