@@ -1,4 +1,4 @@
-# YouTube Audio Downloader (Safe & Legal) — repo blueprint
+# YouTube Audio Downloader (Safe & Legal) 
 
 > A local web app + repo that lets *you* download audio **only** when it's legal to do so — your own videos or videos with a Creative Commons license. No piracy. No loopholes. Read the rules.
 
